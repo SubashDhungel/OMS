@@ -1,0 +1,29 @@
+#sale{
+    color: rgba(63, 5, 5, 0.9);
+    
+}
+#first{
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: large;
+}
+#headerlogo{
+    font-family: serif;
+    color: rgb(0, 0, 0);
+   font-size:x-large;
+   font-weight:800;
+   position:absolute;
+   top: 6px;
+   left: 47px;
+}
+#headimg{
+    box-shadow:inset 5px 5px 12px #ffffff,5px 5px 12px rgba(0,0,0,.16);
+}
+.testi{
+    color: black;
+    font-weight:600;
+}
+#motey{
+    position: relative;
+    left:20px;
+}
